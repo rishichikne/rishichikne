@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishichikne
 - 👀 I’m interested in building apps
 - 🌱 I’m currently learning html
-- 📫 How to reach me-rishichikne@gmail.com
+- 📫 How to reach me-rishichikne89@gmail.com
 
 
 <!---
